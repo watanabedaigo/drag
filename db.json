@@ -1,0 +1,34 @@
+{
+  "staff": [
+    {
+      "id": 1,
+      "name": "staff1",
+      "position": "div2",
+      "initDivision": "all"
+    },
+    {
+      "id": 2,
+      "name": "staff2",
+      "position": "div2",
+      "initDivision": "all"
+    },
+    {
+      "id": 3,
+      "name": "staff3",
+      "position": "div1",
+      "initDivision": "all"
+    },
+    {
+      "id": 4,
+      "name": "staff4",
+      "position": "div1",
+      "initDivision": "all"
+    },
+    {
+      "id": 5,
+      "name": "staff5",
+      "position": "div2",
+      "initDivision": "all"
+    }
+  ]
+}

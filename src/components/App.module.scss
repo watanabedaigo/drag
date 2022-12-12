@@ -1,0 +1,16 @@
+.container {
+  border: solid 1px #000;
+  border-radius: 5px;
+  padding: 10px 20px;
+  width: 400px;
+  margin: 10px 0;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+
+  p {
+    margin: 0;
+  }
+}

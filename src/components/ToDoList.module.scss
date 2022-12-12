@@ -1,0 +1,38 @@
+h2 {
+  margin: 0;
+}
+
+.ttlWrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  font-size: 18px;
+
+  h2 + * {
+    margin-left: 10px;
+  }
+}
+
+.allWrapper {
+  padding: 0 !important;
+}
+
+.div1Wrapper {
+  border: solid 4px #fa8072 !important;
+}
+
+.div2Wrapper {
+  border: solid 4px #87cefa !important;
+}
+
+.div {
+  border-radius: 10px;
+}
+
+.div1 {
+  background-color: #fa8072 !important;
+}
+
+.div2 {
+  background-color: #87cefa !important;
+}
